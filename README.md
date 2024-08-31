@@ -34,6 +34,6 @@ Got a cool idea? Found a bug? Join the party! Fork it, tweak it, push it. We lov
 MIT - use it, abuse it, just don't sue us!
 
 ## 📧 Questions? Ideas? Just wanna chat? 
-Hit me up at [Gokul's mail](mailto:Whitewolfwayne@gmail.com).
+Hit me up at [Omkar's mail](mailto:Whitewolfwayne@gmail.com).
 
  ⚡🌍💫
